@@ -165,3 +165,5 @@ data_loader_all.py
 /debug/
 /inference_results/
 /packages/
+Checkpoints/
+
